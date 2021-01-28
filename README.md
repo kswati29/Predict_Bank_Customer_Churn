@@ -1,5 +1,5 @@
 # Predict_Bank_Customer_Churn
-Comparison of Churn Classification models using Ensemble methods
+Churn Classification models using Ensemble methods approach of voting, bagging boosting and stacking
 
 ## Introduction and Goal
 This churn modeling notebook is associated with focused customer retention programs, i.e. predict behavior to retain customers. The data set is obtained from Kaggle. The goal is to predict whether a bank customer will churn or not, that is, whether the customer will leave the bank (close account) or continue to be a customer given customer details.
